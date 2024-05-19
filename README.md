@@ -1,1 +1,1 @@
-Tic-Tac-Toe website for internship with prodigy infotech
+Stopwatch website for internship with prodigy infotech
